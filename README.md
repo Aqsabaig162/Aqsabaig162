@@ -48,11 +48,3 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 📊 GitHub Stats:
-
-![Aqsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqsabaig162&show_icons=true&theme=radical)
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Aqsabaig162&theme=radical&no-frame=true&row=1)
